@@ -39,18 +39,6 @@
         android:text="Hello"
         android:layout_height="wrap_content" />
 
-    <Button
-        android:layout_marginTop="16dp"
-        android:id="@+id/toast_button"
-        android:layout_width="match_parent"
-        android:text="Toast"
-        android:layout_height="wrap_content" />
-    <Button
-        android:layout_marginTop="16dp"
-        android:id="@+id/snack_button"
-        android:layout_width="match_parent"
-        android:text="Snackbar"
-        android:layout_height="wrap_content" />
 
     <TextView
         android:layout_marginTop="16dp"
